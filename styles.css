@@ -1,1 +1,57 @@
+html, body{
+	height: 100%;
+	margin: 0em;
+	font: 13px/1.5 sans-serif;
+}
 
+.master-container{
+	width: 85%;
+	max-width: 1200px;
+	margin:0 auto;
+}
+.top-container {
+	margin-top: 3%;
+	
+}
+
+span{
+	font-size: 1.5em;
+}	
+.lower-container {
+	margin-top: 3%;
+	
+}
+
+.pic-holder{
+	width:85%;
+	max-width: 1200px;
+	min-width: 750px;
+	margin: 0 auto;
+}
+
+.pic {
+	float:left;
+	width: 25%;
+	text-align: center;
+}
+
+.pic-row {
+	overflow: auto;
+	margin: 5% 0;
+}
+
+.footer {
+	margin: 0 auto;	
+	width: 70%;
+	clear:both;
+	text-align:center ;
+}
+
+.bottom-container{
+	margin-top: 15px;
+	float:right;
+}
+
+.TOS {
+	padding: 1.2em;
+}
